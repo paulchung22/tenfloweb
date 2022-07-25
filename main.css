@@ -2,6 +2,8 @@ body {
     background: rgb(76, 118, 146);
     color: white;
     font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+		margin: 0;
+		padding: 0;
 }
 h1 {
     color: rgb(109, 172, 250);
