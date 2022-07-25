@@ -1,7 +1,31 @@
 button {
 	background: grey;
 	border: none;
+	border-radius: 10px;
 	color: white;
 	padding: 10px 10px 10px 10px;
-	border-radius: 10px;
+}
+
+.hero {
+	background-image: url("https://media.architecturaldigest.com/photos/578fc7c1769e8a521ed70a90/master/pass/venice-italy.jpg");
+	background-position: center center;
+	background-size: cover;
+
+	width: 100%;
+	height: calc(100vh - 86px);
+
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+.hero .hero-content {
+	width: 80%;
+	display: flex;
+	align-items: center;
+}
+
+.hero .hero-content h1 {
+	font-size: 72px;
+	margin: 0;
 }
