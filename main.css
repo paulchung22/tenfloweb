@@ -12,19 +12,25 @@ h1 {
 }
 
 h2 {
-    color: rgb(159, 158, 158);
+	color: rgb(159, 158, 158);
 }
 
 button {
-    background: grey;
-    border: none;
-    color: white;
-    padding: 10px 10px 10px 10px;
-    border-radius: 10px;
+	background: grey;
+	border: none;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	justify-content: end;
+	margin-right: 10px;
 }
 
 li {
-    display: inline;
-    padding: 10px;
-      } 
-}
+	display: inline;
+	padding: 10px;
+} 
