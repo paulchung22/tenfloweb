@@ -1,5 +1,5 @@
 body {
-    background: rgb(76, 118, 146);
+    background: rgb(165, 190, 206);
     color: white;
     font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
 		margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 h1 {
     color: rgb(109, 172, 250);
-    background:rgb(22, 58, 82);
+    background:rgb(37, 82, 113);
     padding: 15px 15px 15px 30px;
 }
 
