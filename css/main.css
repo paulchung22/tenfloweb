@@ -33,15 +33,3 @@ button {
 	padding: 10px 10px 10px 10px;
 	border-radius: 10px;
 }
-
-ul {
-	display: flex;
-	align-items: center;
-	justify-content: end;
-	margin-right: 10px;
-}
-
-li {
-	display: inline;
-	padding: 10px;
-} 
