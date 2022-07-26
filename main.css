@@ -1,0 +1,42 @@
+body {
+    background: rgb(182, 202, 213);
+    color: white;
+    font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+		margin: 0;
+		padding: 0;
+}
+h1 {
+    color: rgb(109, 172, 250);
+    background:rgb(37, 82, 113);
+    padding: 15px 15px 15px 30px;
+}
+
+h2 {
+	color: rgb(159, 158, 158);
+}
+
+button {
+	background: grey;
+	border: none;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	justify-content: end;
+	margin-right: 10px;
+	color:rgb(30, 46, 63);
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+.logo-img {
+   height: 120px;
+   margin: -50px 20px 20px 25px;
+}
