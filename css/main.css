@@ -1,11 +1,3 @@
-button {
-	background: grey;
-	border: none;
-	border-radius: 10px;
-	color: white;
-	padding: 10px 10px 10px 10px;
-}
-
 .hero {
 	background-image: url("https://media.architecturaldigest.com/photos/578fc7c1769e8a521ed70a90/master/pass/venice-italy.jpg");
 	background-position: center center;

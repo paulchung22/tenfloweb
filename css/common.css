@@ -58,3 +58,19 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.btn {
+	cursor: pointer;
+	border-radius: 8px;
+	border: none;
+	padding: 0.8rem 1.5rem;
+
+	background-color: gray;
+	color: white;
+}
+.btn:focus { outline: 1px solid white; }
+.btn:active { background-color: dimgray; }
+
+.btn-small { padding: 0.5rem 1rem; }
+.btn-large { padding: 1.2rem 2rem; }
+.btn-round { border-radius: 999px; }
