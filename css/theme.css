@@ -10,6 +10,9 @@
 
 	--font-heading: 'Roboto Slab';
 	--font-body: Roboto, Arial, Helvetica, Helvetica Neue, sans-serif;
+
+	--breakpoint-sm: 600px;
+	--breakpoint-md: 900px;
 }
 
 body {
