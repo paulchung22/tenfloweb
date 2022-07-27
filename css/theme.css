@@ -4,11 +4,11 @@
 	--color-secondary: #255271;
 	--color-background: #b6cad5;
 
-	--color-title: #6dacfa;
-	--color-subtitle: #9f9f9f;
-	--color-text: #ffffff;
+	--color-title: #ffffff;
+	--color-subtitle: #02013f;
+	--color-text: #02013f;
 
-	--font-heading: 'Roboto Slab';
+	--font-heading: 'Arial';
 	--font-body: Roboto, Arial, Helvetica, Helvetica Neue, sans-serif;
 
 	--size-xs: 600px;
@@ -31,7 +31,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     color: var(--color-title);
-    background: var(--color-primary);
     padding: 1rem;
 		padding-left: 1rem;
 }
