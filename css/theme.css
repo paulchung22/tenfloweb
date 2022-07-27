@@ -11,10 +11,11 @@
 	--font-heading: 'Roboto Slab';
 	--font-body: Roboto, Arial, Helvetica, Helvetica Neue, sans-serif;
 
-	--breakpoint-xs: 600px;
-	--breakpoint-sm: 768px;
-	--breakpoint-md: 1025px;
-	--breakpoint-lg: 1140px;
+	--size-xs: 600px;
+	--size-sm: 768px;
+	--size-md: 1025px;
+	--size-lg: 1140px;
+	--size-xl: 1536px;
 }
 
 body {
