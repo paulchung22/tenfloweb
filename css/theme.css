@@ -18,6 +18,10 @@
 	--size-xl: 1536px;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 body {
     background: var(--color-background);
     color: var(--color-text);
