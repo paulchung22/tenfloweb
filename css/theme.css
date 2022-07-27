@@ -42,3 +42,12 @@ h1 {
 h2 {
 	color: var(--color-subtitle);
 }
+
+.bg-white { background-color: white; }
+.bg-primary { background-color: var(--color-primary); }
+.bg-secondary { background-color: var(--color-secondary); }
+
+.text-white { color: white; }
+.text-primary { color: var(--color-primary); }
+.text-secondary { color: var(--color-secondary); }
+
