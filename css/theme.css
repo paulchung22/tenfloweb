@@ -4,11 +4,11 @@
 	--color-secondary: #255271;
 	--color-background: #b6cad5;
 
-	--color-title: #6dacfa;
+	--color-title: #ffffff;
 	--color-subtitle: #9f9f9f;
 	--color-text: #ffffff;
 
-	--font-heading: 'Roboto Slab';
+	--font-heading: 'Arial';
 	--font-body: Roboto, Arial, Helvetica, Helvetica Neue, sans-serif;
 
 	--breakpoint-sm: 600px;
