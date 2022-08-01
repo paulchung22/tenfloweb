@@ -135,3 +135,4 @@
 .btn-small { padding: 0.5rem 1rem; }
 .btn-large { padding: 1.2rem 2rem; }
 .btn-round { border-radius: 999px; }
+.btn-square { border-radius: 0; }

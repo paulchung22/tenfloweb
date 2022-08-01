@@ -37,3 +37,7 @@ header nav ul li a {
 header nav ul li a:hover {
 	color: var(--color-secondary);
 }
+
+header nav ul li ul {
+	display: none;
+}
