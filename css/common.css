@@ -75,6 +75,7 @@
 .m-6 { margin: calc(var(--spacing-base) * 6); }
 .m-7 { margin: calc(var(--spacing-base) * 7); }
 .m-8 { margin: calc(var(--spacing-base) * 8); }
+.m-auto { margin: auto; }
 
 .px-0 { padding-left: calc(var(--spacing-base) * 0); padding-right: calc(var(--spacing-base) * 0); }
 .px-1 { padding-left: calc(var(--spacing-base) * 1); padding-right: calc(var(--spacing-base) * 1); }
@@ -95,6 +96,7 @@
 .mx-6 { margin-left: calc(var(--spacing-base) * 6); margin-right: calc(var(--spacing-base) * 6);}
 .mx-7 { margin-left: calc(var(--spacing-base) * 7); margin-right: calc(var(--spacing-base) * 7);}
 .mx-8 { margin-left: calc(var(--spacing-base) * 8); margin-right: calc(var(--spacing-base) * 8);}
+.mx-auto { margin-left: auto; margin-right: auto; }
 
 .py-0 { padding-top: calc(var(--spacing-base) * 0); padding-bottom: calc(var(--spacing-base) * 0); }
 .py-1 { padding-top: calc(var(--spacing-base) * 1); padding-bottom: calc(var(--spacing-base) * 1); }
@@ -115,6 +117,7 @@
 .my-6 { margin-top: calc(var(--spacing-base) * 6); margin-bottom: calc(var(--spacing-base) * 6); }
 .my-7 { margin-top: calc(var(--spacing-base) * 7); margin-bottom: calc(var(--spacing-base) * 7); }
 .my-8 { margin-top: calc(var(--spacing-base) * 8); margin-bottom: calc(var(--spacing-base) * 8); }
+.my-auto { margin-top: auto; margin-bottom: auto; }
 
 .btn {
 	cursor: pointer;
