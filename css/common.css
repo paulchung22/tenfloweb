@@ -5,27 +5,24 @@
 }
 
 [class*="col-"] {
-  flex: 100%;
+	flex: 100%;
 	margin: 10px;
 }
 
 @media only screen and (min-width: 768px) {
-	.row {
-		flex-direction: row;
-	}
-  /* For desktop: */
-  .col-1 { flex: 8.33%; }
-  .col-2 { flex: 16.66%; }
-  .col-3 { flex: 25%; }
-  .col-4 { flex: 33.33%; }
-  .col-5 { flex: 41.66%; }
-  .col-6 { flex: 50%; }
-  .col-7 { flex: 58.33%; }
-  .col-8 { flex: 66.66%; }
-  .col-9 { flex: 75%; }
-  .col-10 { flex: 83.33%; }
-  .col-11 { flex: 91.66%; }
-  .col-12 { flex: 100%; }
+	.row { flex-direction: row; }
+	.col-1 { flex: 8.33%; }
+	.col-2 { flex: 16.66%; }
+	.col-3 { flex: 25%; }
+	.col-4 { flex: 33.33%; }
+	.col-5 { flex: 41.66%; }
+	.col-6 { flex: 50%; }
+	.col-7 { flex: 58.33%; }
+	.col-8 { flex: 66.66%; }
+	.col-9 { flex: 75%; }
+	.col-10 { flex: 83.33%; }
+	.col-11 { flex: 91.66%; }
+	.col-12 { flex: 100%; }
 }
 
 .container {
@@ -70,6 +67,7 @@
 }
 .btn:focus { outline: 1px solid white; }
 .btn:active { background-color: dimgray; }
+.btn:hover { background-color: dimgray; }
 
 .btn-small { padding: 0.5rem 1rem; }
 .btn-large { padding: 1.2rem 2rem; }
