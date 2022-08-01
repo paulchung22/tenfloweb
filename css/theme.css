@@ -16,6 +16,8 @@
 	--size-md: 1025px;
 	--size-lg: 1140px;
 	--size-xl: 1536px;
+
+	--spacing-base: 0.25rem;
 }
 
 * {
