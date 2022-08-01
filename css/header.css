@@ -25,11 +25,11 @@ header nav ul {
 header nav ul li {}
 
 header nav ul li a {
-	padding: 0.7rem 1.5rem;
+	padding: 0.7rem 1rem;
 	text-decoration: none;
 	border-radius: 999px;
 	color: var(--color-primary);
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: 500;
 	transition: all 0.4s;
 }
@@ -37,8 +37,4 @@ header nav ul li a {
 header nav ul li a:hover {
 	color: var(--color-text);
 	background-color: var(--color-primary);
-	padding-left: 2rem;
-	padding-right: 2rem;
-	margin-left: -0.5rem;
-	margin-right: -0.5rem;
 }
