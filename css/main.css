@@ -46,3 +46,8 @@
 #services {
 	text-align: center;
 }
+
+#services .row div img {
+	height: auto;
+	width: 100%;
+}
