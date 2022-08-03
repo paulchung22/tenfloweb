@@ -48,13 +48,15 @@
 .hero .hero-content button:hover {
 	background-color: rgb(140, 146, 173);
 	transition: .5s;
-	transform: translateY(-1rem);
+	background-color: rgba(55, 59, 78, 0);
+	transform: translateY(-0.25rem);
+	transition: 1s;
 }
 
 #services {
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 }
 
 #services h2 {
@@ -85,4 +87,55 @@
 	margin: 0;
 	font-size: 14px;
 	font-weight: 300;
+}
+
+#expertise {
+	text-align: center;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	background: linear-gradient(180deg, #A6C7D3 0%, #444865 100%)
+}
+
+#expertise .container {
+}
+
+#expertise .container h2 {
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+}
+
+#expertise .container .row {
+}
+
+#expertise .container .row div {
+	padding: 2rem 1rem;
+	border: 1px solid white;
+	border-radius: 16px;
+}
+
+#expertise .container .row div img {
+	height: 148px;
+	width: auto;
+	padding: 1rem;
+	transition: 0.2s;
+}
+
+#expertise .container .row div img:hover {
+	transform: scale(1.1);
+}
+
+#expertise .container .row div h3 {
+	margin: 0;
+	font-size: 26px;
+	font-weight: 400;
+	margin-bottom: 1rem;
+	color: white;
+}
+
+#expertise .container .row div p {
+	margin: 0;
+	font-size: 14px;
+	font-weight: 300;
+	color: lightgray;
 }
