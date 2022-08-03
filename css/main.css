@@ -1,5 +1,4 @@
 .hero {
-	background-image: url("https://tenfloweb.com/wp-content/uploads/2021/07/video_banner.jpg");
 	background-position: center center;
 	background-size: cover;
 
@@ -20,32 +19,36 @@
 	gap: 1rem;
 }
 
-.hero .hero-content h1 {
+#main-hero {
+	background-image: url("https://tenfloweb.com/wp-content/uploads/2021/07/video_banner.jpg");
+}
+
+#main-hero .hero-content h1 {
 	font-size: 72px;
 	margin: 0;
 	font-weight: 400;
 }
 
-.hero .hero-content h2 {
+#main-hero .hero-content h2 {
 	color: white;
 	font-size: 48px;
 	font-weight: 100;
 	margin: 0;
 }
 
-.hero .hero-content h3 {
+#main-hero .hero-content h3 {
 	color: white;
 	margin-top: 0;
 	font-size: 24px;
 }
 
-.hero .hero-content button {
+#main-hero .hero-content button {
 	margin-left: 1rem;
 	font-size: 18px;
 	background-color: rgba(74, 79, 104, 0.75);
 }
 
-.hero .hero-content button:hover {
+#main-hero .hero-content button:hover {
 	background-color: rgb(140, 146, 173);
 	transition: .5s;
 	background-color: rgba(55, 59, 78, 0);
@@ -138,4 +141,7 @@
 	font-size: 14px;
 	font-weight: 300;
 	color: lightgray;
+}
+
+#website-design-hero {
 }
