@@ -118,32 +118,3 @@
 .my-7 { margin-top: calc(var(--spacing-base) * 7); margin-bottom: calc(var(--spacing-base) * 7); }
 .my-8 { margin-top: calc(var(--spacing-base) * 8); margin-bottom: calc(var(--spacing-base) * 8); }
 .my-auto { margin-top: auto; margin-bottom: auto; }
-
-.btn {
-	cursor: pointer;
-	border-radius: 8px;
-	border: none;
-	padding: 0.8rem 1.5rem;
-
-	background-color: gray;
-	color: white;
-}
-.btn:focus { outline: 1px solid white; }
-.btn:active { background-color: dimgray; }
-.btn:hover { background-color: dimgray; }
-
-.btn-small { padding: 0.5rem 1rem; }
-.btn-large { padding: 1.2rem 2rem; }
-.btn-round { border-radius: 999px; }
-.btn-square { border-radius: 0; }
-
-.border { border-style: solid; }
-.border-1 { border-width: 1px; }
-.border-2 { border-width: 2px; }
-.border-3 { border-width: 3px; }
-.border-4 { border-width: 4px; }
-.border-5 { border-width: 5px; }
-
-.border-primary { border-color: var(--color-primary); }
-.border-secondary { border-color: var(--color-secondary); }
-.border-white { border-color: white; }
