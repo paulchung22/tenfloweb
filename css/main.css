@@ -42,11 +42,13 @@
 .hero .hero-content button {
 	margin-left: 1rem;
 	font-size: 18px;
-	background-color: rgba(74, 79, 104, 0.54);
+	background-color: rgba(74, 79, 104, 0.75);
 }
 
 .hero .hero-content button:hover {
 	background-color: rgba(55, 59, 78, 0);
+	transition: 1s;
+	transform: translateY(-1rem);
 }
 
 #services {
