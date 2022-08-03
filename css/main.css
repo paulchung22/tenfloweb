@@ -47,6 +47,11 @@
 	text-align: center;
 }
 
+#services {
+	font-size: 40px;
+	font-weight: 300;
+}
+
 #services .row div img {
 	height: auto;
 	width: 100%;
