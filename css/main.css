@@ -46,8 +46,8 @@
 }
 
 .hero .hero-content button:hover {
-	background-color: rgba(55, 59, 78, 0);
-	transition: 1s;
+	background-color: rgb(140, 146, 173);
+	transition: .5s;
 	transform: translateY(-1rem);
 }
 
