@@ -53,7 +53,26 @@
 	color: rgb(2, 10, 125);
 }
 
+#services .row div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 #services .row div img {
 	height: auto;
 	width: 100%;
+}
+
+#services .row div h3 {
+	margin: 0;
+	font-size: 25px;
+	font-weight: 600;
+	margin-bottom: 1rem;
+}
+
+#services .row div p {
+	margin: 0;
+	font-size: 14px;
+	font-weight: 300;
 }
