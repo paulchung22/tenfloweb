@@ -54,6 +54,7 @@
 	background-color: rgba(55, 59, 78, 0);
 	transform: translateY(-0.25rem);
 	transition: 1s;
+	color: rgb(2, 10, 125);
 }
 
 #services {
@@ -144,4 +145,13 @@
 }
 
 #website-design-hero {
+	background-image: url("https://tenfloweb.com/wp-content/uploads/2021/07/responsive-web-design-services-366tbitwglf1s37ut9hxc0.jpeg");
+}
+
+#video-editing-hero {
+	background-image: url("https://tenfloweb.com/wp-content/uploads/2021/07/video-editing-1.png");
+}
+
+#graphic-design-hero {
+	background-image: url("https://tenfloweb.com/wp-content/uploads/2021/07/00b1d8993d8323a32666121f3eb7e22d.jpeg");
 }
